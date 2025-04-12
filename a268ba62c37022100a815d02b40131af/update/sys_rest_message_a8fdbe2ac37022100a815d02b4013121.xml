@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message">
+    <sys_rest_message action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <authentication_type>no_authentication</authentication_type>
+        <basic_auth_password/>
+        <basic_auth_profile/>
+        <basic_auth_user/>
+        <description>Free fake and reliable API for testing and prototyping.</description>
+        <name>FakeAPI</name>
+        <oauth2_profile/>
+        <protocol_name/>
+        <rest_endpoint>https://jsonplaceholder.typicode.com/</rest_endpoint>
+        <sys_class_name>sys_rest_message</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-12 11:52:25</sys_created_on>
+        <sys_id>a8fdbe2ac37022100a815d02b4013121</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FakeAPI</sys_name>
+        <sys_package display_value="IPLookup" source="x_1322777_iplookup">a268ba62c37022100a815d02b40131af</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPLookup">a268ba62c37022100a815d02b40131af</sys_scope>
+        <sys_update_name>sys_rest_message_a8fdbe2ac37022100a815d02b4013121</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-12 11:52:25</sys_updated_on>
+        <use_basic_auth>false</use_basic_auth>
+        <use_mutual_auth>false</use_mutual_auth>
+    </sys_rest_message>
+</record_update>
